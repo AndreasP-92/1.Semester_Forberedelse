@@ -31,9 +31,9 @@ public class Main {
         }
         int number = 100;
 
-        if (number & number == true){
+  /*      if (number & number == true){
             System.out.println("100 is true");
-        }
+        }*/
 
         if (obj.year(2019) > 0 && obj.isAdult() == true){
             System.out.println("True");

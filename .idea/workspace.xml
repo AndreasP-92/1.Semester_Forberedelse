@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9a1ffc1e-e5b3-4b1b-ad22-6ff4f86cd407" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,7 +46,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Inheritance03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.løkker03">
+    <configuration name="Inheritance02" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Inheritance02.Inheritance02" />
+      <module name="1.Semester_Forberedelse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance03" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance03.Inheritance03" />
+      <module name="1.Semester_Forberedelse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="1.Semester_Forberedelse" />
@@ -31,6 +76,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main02" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main02" />
+      <module name="1.Semester_Forberedelse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Market" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Klasse01.Market" />
+      <module name="1.Semester_Forberedelse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Inheritance02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="løkker03" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="løkker03.løkker03" />
+      <module name="1.Semester_Forberedelse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.løkker03" />
+      <item itemvalue="Application.Main02" />
+      <item itemvalue="Application.Market" />
+      <item itemvalue="Application.Inheritance03" />
+      <item itemvalue="Application.Inheritance02" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -47,33 +127,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591286994365</updated>
-      <workItem from="1591287000662" duration="4393000" />
+      <workItem from="1591287000662" duration="11227000" />
+      <workItem from="1591344858219" duration="4914000" />
+      <workItem from="1591451073136" duration="2403000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1591291119516">
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591452941449">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1591291119516" />
-    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1591291119516">
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1591452941449" />
+    <state x="605" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1591345408537">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1591291119516" />
-    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1591291119516">
+    <state x="605" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1591345408537" />
+    <state x="529" y="225" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591452940049">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1591291119516" />
-    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1591291119516">
+    <state x="529" y="225" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.870@0.0.1600.870" timestamp="1591452940049" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1591453462625">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1591291119516" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1591453462625" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1591453462624">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1591453462624" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1591453462624">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1591453462624" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1591453462625">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1591453462625" />
     <state x="456" y="198" key="run.anything.popup" timestamp="1591289582480">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1591289582480" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1591346580732">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1591346580732" />
   </component>
 </project>
