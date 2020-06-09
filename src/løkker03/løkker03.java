@@ -41,7 +41,7 @@ public class løkker03 {
         rightNumber = number;
 
 
-        if (rnumber == guessedNumber){
+        if (rightNumber == guessedNumber){
             System.out.println("Du var heldig, det rigtige nummer var: " + rightNumber);
         } else {
             System.out.println("Desværre, " + "Du har indtastet: " + guessedNumber + ", det rigtige nummer var: " + rightNumber);
